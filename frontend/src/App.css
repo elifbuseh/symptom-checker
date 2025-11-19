@@ -1,0 +1,514 @@
+/* frontend/src/App.css */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #F9DFC6; /* Amande */
+  color: #0B0829;           /* Bleu Oxford */
+  line-height: 1.6;
+}
+
+/* Temel container */
+.app-main-container {
+  display: flex;
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+  position: relative; 
+  background-color: #F9DFC6;
+}
+
+/* Tema sınıfları (renkler aynı paletten) */
+.app-main-container.light {
+  background-color: #F9DFC6;
+}
+
+.app-main-container.dark {
+  background-color: #0B0829;
+}
+
+/* Semptom Seçim Bölümü */
+.symptom-section {
+  flex-grow: 1;
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  background-color: #8FA0D8; /* Vista Bleu */
+  transition: filter 0.4s ease, background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Dark modda semptom paneli (aynı renk paleti) */
+.app-main-container.dark .symptom-section {
+  background-color: #0B0829;
+  color: #F9DFC6;
+}
+
+.app-main-container.dark .symptom-section h1,
+.app-main-container.dark .symptom-section p {
+  color: #F9DFC6;
+}
+
+.app-main-container:not(.results-closed) .symptom-section {
+  filter: blur(4px);
+  pointer-events: none;
+}
+
+.symptom-section h1 {
+  color: #0B0829;
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 2.2em;
+}
+
+/* Dark tema başlık rengi */
+.app-main-container.dark .symptom-section h1 {
+  color: #F9DFC6;
+}
+
+/* ===== ÜST KONTROLLER (Dil & Tema) ===== */
+.top-controls {
+  display: flex;
+  justify-content: flex-end;
+  gap: 16px;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+.control-group {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.9em;
+}
+
+.control-group span {
+  font-weight: 500;
+  color: #0B0829;
+}
+
+/* Dark modda label rengi */
+.app-main-container.dark .control-group span {
+  color: #F9DFC6;
+}
+
+.small-toggle-btn {
+  font-size: 0.8em;
+  padding: 4px 10px;
+  border-radius: 999px;
+  border: 1px solid rgba(11, 8, 41, 0.3);
+  background-color: rgba(255, 255, 255, 0.6);
+  color: #0B0829;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.small-toggle-btn:hover {
+  background-color: rgba(255, 255, 255, 0.9);
+}
+
+.small-toggle-btn.active {
+  background-color: #FF8400;
+  color: #ffffff;
+  border-color: #FF8400;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.15);
+}
+
+/* Dark temada buton kenarlıkları hafifçe açılıyor */
+.app-main-container.dark .small-toggle-btn {
+  background-color: rgba(249, 223, 198, 0.1);
+  color: #F9DFC6;
+  border-color: rgba(249, 223, 198, 0.4);
+}
+
+.app-main-container.dark .small-toggle-btn:hover {
+  background-color: rgba(249, 223, 198, 0.25);
+}
+
+/* YENİ: Seçilen Semptomlar Alanı */
+.selected-symptoms-container {
+  width: 100%;
+  min-height: 50px;
+  background-color: rgba(255, 255, 255, 0.4);
+  border: 1px solid rgba(11, 8, 41, 0.2);
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+/* Dark tema: kutu hafif koyulaştırılmış, ama aynı palet */
+.app-main-container.dark .selected-symptoms-container {
+  background-color: rgba(11, 8, 41, 0.4);
+  border-color: rgba(249, 223, 198, 0.4);
+}
+
+.selected-symptoms-placeholder {
+  color: rgba(11, 8, 41, 0.6);
+  font-style: italic;
+  font-size: 0.9em;
+}
+
+.app-main-container.dark .selected-symptoms-placeholder {
+  color: rgba(249, 223, 198, 0.7);
+}
+
+.selected-symptom-tag {
+  background-color: #FF8400;
+  color: white;
+  padding: 5px 28px 5px 12px;
+  border-radius: 16px;
+  font-size: 0.9em;
+  font-weight: 500;
+  position: relative;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-transform: capitalize;
+}
+
+.remove-symptom-btn {
+  position: absolute;
+  top: 50%;
+  right: 4px;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.1em;
+  line-height: 1;
+  padding: 0;
+  transition: all 0.2s ease;
+}
+
+.remove-symptom-btn:hover {
+  background-color: rgba(255, 255, 255, 0.4);
+  transform: translateY(-50%) scale(1.1);
+}
+
+/* Harf Filtresi */
+.letter-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 15px;
+  padding: 5px 0;
+}
+
+.letter-filter button {
+  font-family: inherit;
+  font-size: 0.85em;
+  font-weight: 500;
+  background-color: rgba(255, 255, 255, 0.3);
+  color: #0B0829;
+  border: 1px solid rgba(11, 8, 41, 0.2);
+  padding: 4px 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  min-width: 30px;
+  text-align: center;
+}
+
+.app-main-container.dark .letter-filter button {
+  background-color: rgba(11, 8, 41, 0.5);
+  color: #F9DFC6;
+  border-color: rgba(249, 223, 198, 0.3);
+}
+
+.letter-filter button:hover {
+  background-color: rgba(255, 255, 255, 0.7);
+  border-color: #FF8400;
+}
+
+.app-main-container.dark .letter-filter button:hover {
+  background-color: rgba(249, 223, 198, 0.2);
+}
+
+.letter-filter button.active {
+  background-color: #FF8400;
+  color: white;
+  border-color: #FF8400;
+  font-weight: bold;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Semptom Grid */
+.symptom-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  max-height: 55vh;
+  overflow-y: auto;
+  padding: 10px;
+  border-radius: 8px;
+  background-color: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(11, 8, 41, 0.2);
+}
+
+.app-main-container.dark .symptom-grid {
+  background-color: rgba(11, 8, 41, 0.5);
+  border-color: rgba(249, 223, 198, 0.4);
+}
+
+.symptom-tag {
+  background-color: white;
+  color: #0B0829;
+  border: 1px solid rgba(11, 8, 41, 0.3);
+  padding: 7px 12px;
+  border-radius: 18px;
+  cursor: pointer;
+  font-size: 0.88em;
+  transition: all 0.2s ease-in-out;
+  text-transform: capitalize;
+  white-space: nowrap;
+}
+
+.app-main-container.dark .symptom-tag {
+  background-color: #F9DFC6;
+  color: #0B0829;
+}
+
+.symptom-tag:hover {
+  background-color: rgba(255, 132, 0, 0.9);
+  color: white;
+  border-color: #FF8400;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.symptom-tag.selected {
+  background-color: #d8d8d8;
+  color: #777;
+  border-color: #bbb;
+}
+
+/* Tahmin Butonu */
+.predict-button {
+  background-color: #0B0829;
+  color: #F9DFC6;
+  padding: 14px 28px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1em;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  margin-top: auto;
+  align-self: flex-start;
+  letter-spacing: 0.5px;
+}
+
+.app-main-container.dark .predict-button {
+  background-color: #F9DFC6;
+  color: #0B0829;
+}
+
+.predict-button:disabled {
+  background-color: #6c757d;
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.predict-button:hover:not(:disabled) {
+  background-color: #1a153d;
+  transform: scale(1.02);
+  box-shadow: 0 6px 16px rgba(11, 8, 41, 0.35);
+}
+
+/* Sonuç Bölümü (Overlay) */
+.result-section {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 33.33%;
+  max-width: 450px;
+  min-width: 320px;
+  height: 100vh;
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  transform: translateX(100%);
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #0B0829;
+  color: #F9DFC6;
+  box-shadow: -8px 0 25px rgba(0, 0, 0, 0.25);
+  z-index: 100;
+  border-top-left-radius: 25px;
+  border-bottom-left-radius: 25px;
+}
+
+.app-main-container:not(.results-closed) .result-section {
+  transform: translateX(0);
+}
+
+.result-content-wrapper {
+  opacity: 1;
+  transform: scale(1);
+  transition: opacity 0.3s ease-out, transform 0.3s ease-out;
+  width: 100%;
+  white-space: normal;
+  overflow-y: auto;
+  padding: 20px 0;
+}
+
+/* Açma Butonu */
+.open-results-button {
+  position: fixed;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%) translateX(0%);
+  z-index: 20;
+  background-color: #0B0829;
+  color: #F9DFC6;
+  border: 2px solid #F9DFC6;
+  width: 36px;
+  height: 60px;
+  border-top-left-radius: 18px;
+  border-bottom-left-radius: 18px;
+  border-right: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 1.5em;
+  font-weight: bold;
+  box-shadow: -2px 2px 10px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.open-results-button:hover {
+  background-color: #1a153d;
+  color: #FF8400;
+  transform: translateY(-50%) translateX(-5px);
+  box-shadow: -4px 4px 15px rgba(0, 0, 0, 0.4);
+}
+
+.app-main-container.results-closed .open-results-button {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* Kapatma Butonu */
+.result-toggle-button.close-btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 10;
+  background-color: rgba(249, 223, 198, 0.1);
+  color: #F9DFC6;
+  border: 2px solid rgba(249, 223, 198, 0.3);
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 1;
+  padding-bottom: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+  opacity: 1;
+}
+
+.result-toggle-button.close-btn:hover {
+  background-color: #FF8400;
+  color: white;
+  border-color: #FF8400;
+  transform: scale(1.1) rotate(90deg);
+}
+
+.app-main-container.results-closed .result-toggle-button.close-btn {
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* Sonuç Stilleri */
+.result-section h2 {
+  color: #F9DFC6;
+  margin-bottom: 20px;
+  font-size: 2em;
+}
+
+.result-section h3 {
+  color: #F9DFC6;
+  font-size: 1.2em;
+  margin-bottom: 5px;
+  opacity: 0.8;
+}
+
+.loading-spinner {
+  font-size: 1.5em;
+  margin-bottom: 20px;
+  color: #F9DFC6;
+  animation: pulse 1s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0% { opacity: 0.7; }
+  50% { opacity: 1; }
+  100% { opacity: 0.7; }
+}
+
+.disease-name {
+  color: #FF8400;
+  font-size: 2.8em;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  text-transform: capitalize;
+  white-space: normal;
+  font-weight: 700;
+}
+
+.warning-message {
+  background-color: #8FA0D8;
+  color: #0B0829;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 0.95em;
+  line-height: 1.5;
+  margin-top: 30px;
+  white-space: normal;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Kaydırma çubuğu stili */
+.symptom-grid::-webkit-scrollbar {
+  width: 8px;
+}
+.symptom-grid::-webkit-scrollbar-track {
+  background: transparent; 
+  border-radius: 10px;
+}
+.symptom-grid::-webkit-scrollbar-thumb {
+  background: rgba(11, 8, 41, 0.4);
+  border-radius: 10px;
+}
+.symptom-grid::-webkit-scrollbar-thumb:hover {
+  background: rgba(11, 8, 41, 0.6);
+}

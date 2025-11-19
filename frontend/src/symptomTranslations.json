@@ -1,0 +1,986 @@
+{
+  "Abdominal swelling (Stomach swelling)": {
+    "tr": "Karın şişliği (Mide şişliği)",
+    "en": "Abdominal swelling (Stomach swelling)"
+  },
+  "Abscess (Collection of pus)": {
+    "tr": "Apse (İrin birikimi)",
+    "en": "Abscess (Collection of pus)"
+  },
+  "Agitated": {
+    "tr": "Ajite / huzursuz",
+    "en": "Agitated"
+  },
+  "Alcohol abuse": {
+    "tr": "Alkol kötüye kullanımı",
+    "en": "Alcohol abuse"
+  },
+  "Amenorrhea (No menstruation)": {
+    "tr": "Adet görmeme (Amenore)",
+    "en": "Amenorrhea (No menstruation)"
+  },
+  "Anger": {
+    "tr": "Öfke",
+    "en": "Anger"
+  },
+  "Ankle pain": {
+    "tr": "Ayak bileği ağrısı",
+    "en": "Ankle pain"
+  },
+  "Anxiety (Nervousness)": {
+    "tr": "Anksiyete (Gerginlik)",
+    "en": "Anxiety (Nervousness)"
+  },
+  "Arm ache or pain": {
+    "tr": "Kol ağrısı",
+    "en": "Arm ache or pain"
+  },
+  "Arm cut (laceration)": {
+    "tr": "Kol kesisi (Laserasyon)",
+    "en": "Arm cut (laceration)"
+  },
+  "Arm itching": {
+    "tr": "Kolda kaşıntı",
+    "en": "Arm itching"
+  },
+  "Arm numbness (paresthesias)": {
+    "tr": "Kolda uyuşma (Parestezi)",
+    "en": "Arm numbness (paresthesias)"
+  },
+  "Arm redness": {
+    "tr": "Kolda kızarıklık",
+    "en": "Arm redness"
+  },
+  "Arm stiffness or tightness": {
+    "tr": "Kolda sertlik veya gerginlik",
+    "en": "Arm stiffness or tightness"
+  },
+  "Arm swelling": {
+    "tr": "Kolda şişlik",
+    "en": "Arm swelling"
+  },
+  "Armpit pain": {
+    "tr": "Koltuk altı ağrısı",
+    "en": "Armpit pain"
+  },
+  "Back ache or pain": {
+    "tr": "Sırt ağrısı",
+    "en": "Back ache or pain"
+  },
+  "Behavioral problem": {
+    "tr": "Davranış problemi",
+    "en": "Behavioral problem"
+  },
+  "Bleeding gums": {
+    "tr": "Diş eti kanaması",
+    "en": "Bleeding gums"
+  },
+  "Bleeding in brain": {
+    "tr": "Beyin kanaması",
+    "en": "Bleeding in brain"
+  },
+  "Bleeding tendency": {
+    "tr": "Kanamaya eğilim",
+    "en": "Bleeding tendency"
+  },
+  "Blister (Pocket of fluid)": {
+    "tr": "Su toplaması (Kabarcık)",
+    "en": "Blister (Pocket of fluid)"
+  },
+  "Blood in urine (Hematuria)": {
+    "tr": "İdrarda kan (Hematüri)",
+    "en": "Blood in urine (Hematuria)"
+  },
+  "Blood in vomit": {
+    "tr": "Kusunda kan",
+    "en": "Blood in vomit"
+  },
+  "Bloody diarrhea": {
+    "tr": "Kanlı ishal",
+    "en": "Bloody diarrhea"
+  },
+  "Blurry vision": {
+    "tr": "Bulanık görme",
+    "en": "Blurry vision"
+  },
+  "Calf pain": {
+    "tr": "Baldır ağrısı",
+    "en": "Calf pain"
+  },
+  "Calf swelling": {
+    "tr": "Baldırda şişlik",
+    "en": "Calf swelling"
+  },
+  "Change in behavior": {
+    "tr": "Davranış değişikliği",
+    "en": "Change in behavior"
+  },
+  "Chest burning": {
+    "tr": "Göğüste yanma",
+    "en": "Chest burning"
+  },
+  "Chest pain": {
+    "tr": "Göğüs ağrısı",
+    "en": "Chest pain"
+  },
+  "Chest pressure": {
+    "tr": "Göğüste baskı/ sıkışma",
+    "en": "Chest pressure"
+  },
+  "Chills": {
+    "tr": "Titreme / ürperme",
+    "en": "Chills"
+  },
+  "Choking": {
+    "tr": "Nefesin tıkanması (Boğulma hissi)",
+    "en": "Choking"
+  },
+  "Confusion": {
+    "tr": "Bilinç bulanıklığı (Konfüzyon)",
+    "en": "Confusion"
+  },
+  "Confusion and headache": {
+    "tr": "Baş ağrısı ve bilinç bulanıklığı",
+    "en": "Confusion and headache"
+  },
+  "Congestion in chest or lungs": {
+    "tr": "Göğüs / akciğerde tıkanıklık",
+    "en": "Congestion in chest or lungs"
+  },
+  "Constipation": {
+    "tr": "Kabızlık",
+    "en": "Constipation"
+  },
+  "Cough": {
+    "tr": "Öksürük",
+    "en": "Cough"
+  },
+  "Cranky, crying, fussy, irritable child": {
+    "tr": "Huysuz, ağlayan, huzursuz çocuk",
+    "en": "Cranky, crying, fussy, irritable child"
+  },
+  "Cyanosis (Blue skin coloration)": {
+    "tr": "Siyanoz (Morarma / Mavi cilt rengi)",
+    "en": "Cyanosis (Blue skin coloration)"
+  },
+  "Dark stools": {
+    "tr": "Koyu renk dışkı",
+    "en": "Dark stools"
+  },
+  "Darkening of the skin (Hyperpigmentation)": {
+    "tr": "Ciltte koyulaşma (Hiperpigmentasyon)",
+    "en": "Darkening of the skin (Hyperpigmentation)"
+  },
+  "Delusions or hallucinations": {
+    "tr": "Sanrı veya halüsinasyon",
+    "en": "Delusions or hallucinations"
+  },
+  "Dementia": {
+    "tr": "Demans (Bunama)",
+    "en": "Dementia"
+  },
+  "Depressed": {
+    "tr": "Depresif hissetme",
+    "en": "Depressed"
+  },
+  "Diarrhea": {
+    "tr": "İshal",
+    "en": "Diarrhea"
+  },
+  "Difficulty breathing": {
+    "tr": "Nefes almakta zorluk",
+    "en": "Difficulty breathing"
+  },
+  "Discharge from ear": {
+    "tr": "Kulaktan akıntı",
+    "en": "Discharge from ear"
+  },
+  "Dizziness": {
+    "tr": "Baş dönmesi",
+    "en": "Dizziness"
+  },
+  "Double vision (Diplopia)": {
+    "tr": "Çift görme (Diplopi)",
+    "en": "Double vision (Diplopia)"
+  },
+  "Drooling": {
+    "tr": "Aşırı salya (Ağızdan akma)",
+    "en": "Drooling"
+  },
+  "Drooping eyelid (Ptosis)": {
+    "tr": "Göz kapağı düşüklüğü (Ptozis)",
+    "en": "Drooping eyelid (Ptosis)"
+  },
+  "Dry skin": {
+    "tr": "Kuru cilt",
+    "en": "Dry skin"
+  },
+  "Ear pressure": {
+    "tr": "Kulakta basınç hissi",
+    "en": "Ear pressure"
+  },
+  "Ear swelling": {
+    "tr": "Kulakta şişlik",
+    "en": "Ear swelling"
+  },
+  "Elbow ache or pain": {
+    "tr": "Dirsek ağrısı",
+    "en": "Elbow ache or pain"
+  },
+  "Elbow swelling": {
+    "tr": "Dirsekte şişlik",
+    "en": "Elbow swelling"
+  },
+  "Excessive appetite": {
+    "tr": "Aşırı iştah",
+    "en": "Excessive appetite"
+  },
+  "Eye floaters": {
+    "tr": "Gözde uçuşmalar",
+    "en": "Eye floaters"
+  },
+  "Eye pain (Irritation)": {
+    "tr": "Göz ağrısı / batması",
+    "en": "Eye pain (Irritation)"
+  },
+  "Eye redness": {
+    "tr": "Göz kızarıklığı",
+    "en": "Eye redness"
+  },
+  "Eye swelling": {
+    "tr": "Gözde şişlik",
+    "en": "Eye swelling"
+  },
+  "Face numbness (paresthesias)": {
+    "tr": "Yüzde uyuşma (Parestezi)",
+    "en": "Face numbness (paresthesias)"
+  },
+  "Facial droop (weakness)": {
+    "tr": "Yüzde düşüklük (Zayıflık)",
+    "en": "Facial droop (weakness)"
+  },
+  "Facial pain": {
+    "tr": "Yüz ağrısı",
+    "en": "Facial pain"
+  },
+  "Failure to thrive": {
+    "tr": "Gelişim geriliği",
+    "en": "Failure to thrive"
+  },
+  "Fainting": {
+    "tr": "Bayılma",
+    "en": "Fainting"
+  },
+  "Fever": {
+    "tr": "Ateş",
+    "en": "Fever"
+  },
+  "Fever in the returning traveler": {
+    "tr": "Seyahatten dönen kişide ateş",
+    "en": "Fever in the returning traveler"
+  },
+  "Fever of unknown origin": {
+    "tr": "Nedeni bilinmeyen ateş",
+    "en": "Fever of unknown origin"
+  },
+  "Flank pain": {
+    "tr": "Yan / böğür ağrısı",
+    "en": "Flank pain"
+  },
+  "Flatulence (Passing gas)": {
+    "tr": "Gaz çıkarma (Şişkinlik)",
+    "en": "Flatulence (Passing gas)"
+  },
+  "Foot cut (laceration)": {
+    "tr": "Ayak kesisi (Laserasyon)",
+    "en": "Foot cut (laceration)"
+  },
+  "Foot itching": {
+    "tr": "Ayakta kaşıntı",
+    "en": "Foot itching"
+  },
+  "Foot numbness (paresthesias)": {
+    "tr": "Ayakta uyuşma (Parestezi)",
+    "en": "Foot numbness (paresthesias)"
+  },
+  "Foot pain": {
+    "tr": "Ayak ağrısı",
+    "en": "Foot pain"
+  },
+  "Foot redness": {
+    "tr": "Ayakta kızarıklık",
+    "en": "Foot redness"
+  },
+  "Foot swelling": {
+    "tr": "Ayakta şişlik",
+    "en": "Foot swelling"
+  },
+  "Frequent urination (Frequency)": {
+    "tr": "Sık idrara çıkma",
+    "en": "Frequent urination (Frequency)"
+  },
+  "General weakness": {
+    "tr": "Genel halsizlik / güçsüzlük",
+    "en": "General weakness"
+  },
+  "Groin pain": {
+    "tr": "Kasık ağrısı",
+    "en": "Groin pain"
+  },
+  "Hair loss (Baldness)": {
+    "tr": "Saç dökülmesi (Kellik)",
+    "en": "Hair loss (Baldness)"
+  },
+  "Hand cut (laceration)": {
+    "tr": "El kesisi (Laserasyon)",
+    "en": "Hand cut (laceration)"
+  },
+  "Hand itching": {
+    "tr": "Elde kaşıntı",
+    "en": "Hand itching"
+  },
+  "Hand numbness (paresthesias)": {
+    "tr": "Elde uyuşma (Parestezi)",
+    "en": "Hand numbness (paresthesias)"
+  },
+  "Hand redness": {
+    "tr": "Elde kızarıklık",
+    "en": "Hand redness"
+  },
+  "Hand, finger ache or pain": {
+    "tr": "El / parmak ağrısı",
+    "en": "Hand, finger ache or pain"
+  },
+  "Head injury": {
+    "tr": "Kafa travması",
+    "en": "Head injury"
+  },
+  "Headache": {
+    "tr": "Baş ağrısı",
+    "en": "Headache"
+  },
+  "Headache after trauma": {
+    "tr": "Travma sonrası baş ağrısı",
+    "en": "Headache after trauma"
+  },
+  "Headache and weakness": {
+    "tr": "Baş ağrısı ve halsizlik",
+    "en": "Headache and weakness"
+  },
+  "Heart murmur (Abnormal heart sound)": {
+    "tr": "Kalp üfürümü (Anormal kalp sesi)",
+    "en": "Heart murmur (Abnormal heart sound)"
+  },
+  "Heart pulsations and palpitations": {
+    "tr": "Çarpıntı (Kalp atımını hissetme)",
+    "en": "Heart pulsations and palpitations"
+  },
+  "Heat illness": {
+    "tr": "Sıcak çarpması / ısı hastalığı",
+    "en": "Heat illness"
+  },
+  "Heel pain": {
+    "tr": "Topuk ağrısı",
+    "en": "Heel pain"
+  },
+  "Hemoptysis (Coughing blood)": {
+    "tr": "Hemoptizi (Kan tükürme / kanlı öksürük)",
+    "en": "Hemoptysis (Coughing blood)"
+  },
+  "High blood pressure": {
+    "tr": "Yüksek tansiyon",
+    "en": "High blood pressure"
+  },
+  "High blood sugar": {
+    "tr": "Yüksek kan şekeri",
+    "en": "High blood sugar"
+  },
+  "Hip pain": {
+    "tr": "Kalça ağrısı",
+    "en": "Hip pain"
+  },
+  "Hives": {
+    "tr": "Kurdeşen (Ürtiker)",
+    "en": "Hives"
+  },
+  "Hoarse voice": {
+    "tr": "Ses kısıklığı",
+    "en": "Hoarse voice"
+  },
+  "Hot flashes": {
+    "tr": "Ateş basması",
+    "en": "Hot flashes"
+  },
+  "Hot skin": {
+    "tr": "Sıcak cilt",
+    "en": "Hot skin"
+  },
+  "Hurts to breathe": {
+    "tr": "Nefes alırken ağrı",
+    "en": "Hurts to breathe"
+  },
+  "Hypothermia (Low temperature)": {
+    "tr": "Hipotermi (Vücut ısısının düşmesi)",
+    "en": "Hypothermia (Low temperature)"
+  },
+  "Impotence": {
+    "tr": "İktidarsızlık (Erektil disfonksiyon)",
+    "en": "Impotence"
+  },
+  "Inconsolable baby": {
+    "tr": "Sakinleşmeyen / teselli edilemeyen bebek",
+    "en": "Inconsolable baby"
+  },
+  "Incontinence (leaking urine)": {
+    "tr": "İdrar kaçırma",
+    "en": "Incontinence (leaking urine)"
+  },
+  "Increased facial hair": {
+    "tr": "Yüzde kıllanma artışı",
+    "en": "Increased facial hair"
+  },
+  "Increased thirst": {
+    "tr": "Artmış susama",
+    "en": "Increased thirst"
+  },
+  "Increased urination (polyuria)": {
+    "tr": "Artmış idrara çıkma (Poliüri)",
+    "en": "Increased urination (polyuria)"
+  },
+  "Infertility (Female)": {
+    "tr": "Kısırlık (Kadın)",
+    "en": "Infertility (Female)"
+  },
+  "Ingestion": {
+    "tr": "Bir maddeyi yutma (İçe alma)",
+    "en": "Ingestion"
+  },
+  "Insect sting": {
+    "tr": "Böcek sokması",
+    "en": "Insect sting"
+  },
+  "Insomnia (Trouble sleeping)": {
+    "tr": "Uykusuzluk (Uykuya dalma / sürdürme güçlüğü)",
+    "en": "Insomnia (Trouble sleeping)"
+  },
+  "Itchy eyes": {
+    "tr": "Kaşınan gözler",
+    "en": "Itchy eyes"
+  },
+  "Itchy rash (Pruritic rash)": {
+    "tr": "Kaşıntılı döküntü",
+    "en": "Itchy rash (Pruritic rash)"
+  },
+  "Jaundice (Yellowing skin)": {
+    "tr": "Sarılık (Ciltte sararma)",
+    "en": "Jaundice (Yellowing skin)"
+  },
+  "Jaw pain": {
+    "tr": "Çene ağrısı",
+    "en": "Jaw pain"
+  },
+  "Joint pain": {
+    "tr": "Eklem ağrısı",
+    "en": "Joint pain"
+  },
+  "Joint stiffness": {
+    "tr": "Eklem sertliği",
+    "en": "Joint stiffness"
+  },
+  "Kidney pain (Flank pain)": {
+    "tr": "Böbrek / yan ağrısı",
+    "en": "Kidney pain (Flank pain)"
+  },
+  "Knee pain": {
+    "tr": "Diz ağrısı",
+    "en": "Knee pain"
+  },
+  "Laceration": {
+    "tr": "Kesik (Laserasyon)",
+    "en": "Laceration"
+  },
+  "Learning difficulties": {
+    "tr": "Öğrenme güçlüğü",
+    "en": "Learning difficulties"
+  },
+  "Leg ache or pain": {
+    "tr": "Bacak ağrısı",
+    "en": "Leg ache or pain"
+  },
+  "Leg cut (laceration)": {
+    "tr": "Bacak kesisi (Laserasyon)",
+    "en": "Leg cut (laceration)"
+  },
+  "Leg itching": {
+    "tr": "Bacakta kaşıntı",
+    "en": "Leg itching"
+  },
+  "Leg numbness (paresthesias)": {
+    "tr": "Bacakta uyuşma (Parestezi)",
+    "en": "Leg numbness (paresthesias)"
+  },
+  "Leg redness": {
+    "tr": "Bacakta kızarıklık",
+    "en": "Leg redness"
+  },
+  "Lethargy (Sluggishness)": {
+    "tr": "Aşırı yorgunluk / bitkinlik",
+    "en": "Lethargy (Sluggishness)"
+  },
+  "Limping in a child": {
+    "tr": "Çocukta topallama",
+    "en": "Limping in a child"
+  },
+  "Lip swelling": {
+    "tr": "Dudakta şişlik",
+    "en": "Lip swelling"
+  },
+  "Liver failure (Cirrhosis)": {
+    "tr": "Karaciğer yetmezliği (Siroz)",
+    "en": "Liver failure (Cirrhosis)"
+  },
+  "Loss of balance": {
+    "tr": "Denge kaybı",
+    "en": "Loss of balance"
+  },
+  "Low back ache or pain": {
+    "tr": "Bel ağrısı (Alt bel)",
+    "en": "Low back ache or pain"
+  },
+  "Low blood pressure": {
+    "tr": "Düşük tansiyon",
+    "en": "Low blood pressure"
+  },
+  "Low blood sugar": {
+    "tr": "Düşük kan şekeri",
+    "en": "Low blood sugar"
+  },
+  "Low heart rate": {
+    "tr": "Düşük kalp hızı",
+    "en": "Low heart rate"
+  },
+  "Lower abdominal pain": {
+    "tr": "Alt karın ağrısı",
+    "en": "Lower abdominal pain"
+  },
+  "Lump or mass of breast": {
+    "tr": "Memede kitle / şişlik",
+    "en": "Lump or mass of breast"
+  },
+  "Maroon stools": {
+    "tr": "Bordo / koyu kırmızı dışkı",
+    "en": "Maroon stools"
+  },
+  "Melena (Black stools from blood)": {
+    "tr": "Melena (Kandan dolayı siyah dışkı)",
+    "en": "Melena (Black stools from blood)"
+  },
+  "Memory loss": {
+    "tr": "Hafıza kaybı",
+    "en": "Memory loss"
+  },
+  "Mouth pain": {
+    "tr": "Ağız ağrısı",
+    "en": "Mouth pain"
+  },
+  "Mouth swelling": {
+    "tr": "Ağızda şişlik",
+    "en": "Mouth swelling"
+  },
+  "Mouth ulcers": {
+    "tr": "Aft / ağız yarası",
+    "en": "Mouth ulcers"
+  },
+  "Muscle pain": {
+    "tr": "Kas ağrısı",
+    "en": "Muscle pain"
+  },
+  "Muscle spasm": {
+    "tr": "Kas spazmı / kramp",
+    "en": "Muscle spasm"
+  },
+  "Nail Injury": {
+    "tr": "Tırnak yaralanması",
+    "en": "Nail Injury"
+  },
+  "Nasal bleeding": {
+    "tr": "Burun kanaması",
+    "en": "Nasal bleeding"
+  },
+  "Nasal congestion": {
+    "tr": "Burun tıkanıklığı",
+    "en": "Nasal congestion"
+  },
+  "Nasal injury": {
+    "tr": "Burun yaralanması",
+    "en": "Nasal injury"
+  },
+  "Nausea": {
+    "tr": "Bulantı",
+    "en": "Nausea"
+  },
+  "Neck ache or pain": {
+    "tr": "Boyun ağrısı",
+    "en": "Neck ache or pain"
+  },
+  "Neck stiffness or tightness": {
+    "tr": "Boyun sertliği / gerginliği",
+    "en": "Neck stiffness or tightness"
+  },
+  "Neck swelling": {
+    "tr": "Boyunda şişlik",
+    "en": "Neck swelling"
+  },
+  "Night sweats": {
+    "tr": "Gece terlemesi",
+    "en": "Night sweats"
+  },
+  "Nipple discharge": {
+    "tr": "Meme ucundan akıntı",
+    "en": "Nipple discharge"
+  },
+  "Numbness": {
+    "tr": "Uyuşma",
+    "en": "Numbness"
+  },
+  "Obesity": {
+    "tr": "Obezite (Aşırı kilo)",
+    "en": "Obesity"
+  },
+  "Overdose": {
+    "tr": "Aşırı doz (İlaç / madde)",
+    "en": "Overdose"
+  },
+  "Pain in the ear": {
+    "tr": "Kulak ağrısı",
+    "en": "Pain in the ear"
+  },
+  "Pain or soreness of breast": {
+    "tr": "Meme ağrısı / hassasiyeti",
+    "en": "Pain or soreness of breast"
+  },
+  "Painful gums": {
+    "tr": "Ağrılı diş etleri",
+    "en": "Painful gums"
+  },
+  "Painful rash": {
+    "tr": "Ağrılı döküntü",
+    "en": "Painful rash"
+  },
+  "Painful urination": {
+    "tr": "İdrar yaparken yanma / ağrı",
+    "en": "Painful urination"
+  },
+  "Pelvic pain": {
+    "tr": "Pelvik ağrı (Alt karın bölgesi)",
+    "en": "Pelvic pain"
+  },
+  "Penile discharge": {
+    "tr": "Penisten akıntı",
+    "en": "Penile discharge"
+  },
+  "Penis inflammation or swelling": {
+    "tr": "Peniste iltihap veya şişlik",
+    "en": "Penis inflammation or swelling"
+  },
+  "Penis pain": {
+    "tr": "Penis ağrısı",
+    "en": "Penis pain"
+  },
+  "Poisoning": {
+    "tr": "Zehirlenme",
+    "en": "Poisoning"
+  },
+  "Pregnancy problem": {
+    "tr": "Gebelikle ilgili sorun",
+    "en": "Pregnancy problem"
+  },
+  "Psychiatric problem": {
+    "tr": "Psikiyatrik sorun",
+    "en": "Psychiatric problem"
+  },
+  "Pulling at ears": {
+    "tr": "Kulağını çekme / tutma (bebek/çocuk)",
+    "en": "Pulling at ears"
+  },
+  "Puncture wound": {
+    "tr": "Delici yara",
+    "en": "Puncture wound"
+  },
+  "Pustule (Collection of pus)": {
+    "tr": "Püstül (İrin dolu kabarcık)",
+    "en": "Pustule (Collection of pus)"
+  },
+  "Rash": {
+    "tr": "Döküntü",
+    "en": "Rash"
+  },
+  "Rectal pain": {
+    "tr": "Makat ağrısı",
+    "en": "Rectal pain"
+  },
+  "Rectal swelling": {
+    "tr": "Makat çevresinde şişlik",
+    "en": "Rectal swelling"
+  },
+  "Retaining fluid": {
+    "tr": "Vücutta sıvı tutma (Ödem)",
+    "en": "Retaining fluid"
+  },
+  "Ringing in ears (Tinnitus)": {
+    "tr": "Kulak çınlaması (Tinnitus)",
+    "en": "Ringing in ears (Tinnitus)"
+  },
+  "Scrotal pain": {
+    "tr": "Skrotum / torba ağrısı",
+    "en": "Scrotal pain"
+  },
+  "Scrotal swelling": {
+    "tr": "Skrotumda şişlik",
+    "en": "Scrotal swelling"
+  },
+  "Seizure": {
+    "tr": "Nöbet (Sara nöbeti)",
+    "en": "Seizure"
+  },
+  "Shin pain": {
+    "tr": "Kaval kemiği ağrısı",
+    "en": "Shin pain"
+  },
+  "Shortness of breath": {
+    "tr": "Nefes darlığı",
+    "en": "Shortness of breath"
+  },
+  "Shoulder ache or pain": {
+    "tr": "Omuz ağrısı",
+    "en": "Shoulder ache or pain"
+  },
+  "Shoulder stiffness or tightness": {
+    "tr": "Omuz sertliği / gerginliği",
+    "en": "Shoulder stiffness or tightness"
+  },
+  "Sinus pain and pressure": {
+    "tr": "Sinüslerde ağrı ve basınç",
+    "en": "Sinus pain and pressure"
+  },
+  "Skin bumps": {
+    "tr": "Ciltte kabarıklıklar",
+    "en": "Skin bumps"
+  },
+  "Skin growths": {
+    "tr": "Ciltte çıkıntılar / büyümeler",
+    "en": "Skin growths"
+  },
+  "Skin infection": {
+    "tr": "Cilt enfeksiyonu",
+    "en": "Skin infection"
+  },
+  "Skin itching": {
+    "tr": "Ciltte kaşıntı",
+    "en": "Skin itching"
+  },
+  "Skin pain": {
+    "tr": "Ciltte ağrı / hassasiyet",
+    "en": "Skin pain"
+  },
+  "Skin sores": {
+    "tr": "Cilt yaraları",
+    "en": "Skin sores"
+  },
+  "Skin swelling": {
+    "tr": "Ciltte şişlik",
+    "en": "Skin swelling"
+  },
+  "Skin trauma": {
+    "tr": "Cilt travması",
+    "en": "Skin trauma"
+  },
+  "Sleep disorders": {
+    "tr": "Uyku bozuklukları",
+    "en": "Sleep disorders"
+  },
+  "Snake bite": {
+    "tr": "Yılan ısırığı",
+    "en": "Snake bite"
+  },
+  "Sneezing": {
+    "tr": "Hapşırma",
+    "en": "Sneezing"
+  },
+  "Snoring": {
+    "tr": "Horlama",
+    "en": "Snoring"
+  },
+  "Sore throat": {
+    "tr": "Boğaz ağrısı",
+    "en": "Sore throat"
+  },
+  "Speech problem": {
+    "tr": "Konuşma bozukluğu",
+    "en": "Speech problem"
+  },
+  "Spider bite": {
+    "tr": "Örümcek ısırığı",
+    "en": "Spider bite"
+  },
+  "Steatorrhea (Excess fat in stool)": {
+    "tr": "Steatore (Dışkıda aşırı yağ)",
+    "en": "Steatorrhea (Excess fat in stool)"
+  },
+  "Stings": {
+    "tr": "Sokma (arı vb.)",
+    "en": "Stings"
+  },
+  "Stomach and abdominal pain": {
+    "tr": "Mide ve karın ağrısı",
+    "en": "Stomach and abdominal pain"
+  },
+  "Substance abuse (Drug abuse)": {
+    "tr": "Madde kullanımı (Uyuşturucu kötüye kullanımı)",
+    "en": "Substance abuse (Drug abuse)"
+  },
+  "Suicidal tendencies": {
+    "tr": "İntihar düşünceleri / eğilimi",
+    "en": "Suicidal tendencies"
+  },
+  "Swallowing problem (Dysphagia)": {
+    "tr": "Yutma güçlüğü (Disfaji)",
+    "en": "Swallowing problem (Dysphagia)"
+  },
+  "Sweating": {
+    "tr": "Terleme",
+    "en": "Sweating"
+  },
+  "Swelling": {
+    "tr": "Şişlik",
+    "en": "Swelling"
+  },
+  "Swelling of both legs": {
+    "tr": "Her iki bacakta şişlik",
+    "en": "Swelling of both legs"
+  },
+  "Swollen gums": {
+    "tr": "Şişmiş diş etleri",
+    "en": "Swollen gums"
+  },
+  "Swollen lymph nodes (Large lymph nodes)": {
+    "tr": "Şişmiş lenf düğümleri",
+    "en": "Swollen lymph nodes (Large lymph nodes)"
+  },
+  "Throat pain": {
+    "tr": "Boğaz ağrısı",
+    "en": "Throat pain"
+  },
+  "Tired": {
+    "tr": "Yorgun / bitkin hissetme",
+    "en": "Tired"
+  },
+  "Toe pain": {
+    "tr": "Ayak parmağı ağrısı",
+    "en": "Toe pain"
+  },
+  "Tongue swelling": {
+    "tr": "Dilde şişlik",
+    "en": "Tongue swelling"
+  },
+  "Tooth pain": {
+    "tr": "Diş ağrısı",
+    "en": "Tooth pain"
+  },
+  "Trauma": {
+    "tr": "Travma",
+    "en": "Trauma"
+  },
+  "Traveler's diarrhea": {
+    "tr": "Seyahat ishali",
+    "en": "Traveler's diarrhea"
+  },
+  "Tremors": {
+    "tr": "Titreme",
+    "en": "Tremors"
+  },
+  "Unsteady gait (Trouble walking)": {
+    "tr": "Dengesiz yürüme",
+    "en": "Unsteady gait (Trouble walking)"
+  },
+  "Unusual color or odor of urine": {
+    "tr": "İdrarda alışılmadık renk veya koku",
+    "en": "Unusual color or odor of urine"
+  },
+  "Upper abdominal pain": {
+    "tr": "Üst karın ağrısı",
+    "en": "Upper abdominal pain"
+  },
+  "Upper leg pain": {
+    "tr": "Üst bacak ağrısı",
+    "en": "Upper leg pain"
+  },
+  "Urinary retention (Inability to urinate)": {
+    "tr": "İdrar yapamama (İdrar retansiyonu)",
+    "en": "Urinary retention (Inability to urinate)"
+  },
+  "Vaginal bleeding": {
+    "tr": "Vajinal kanama",
+    "en": "Vaginal bleeding"
+  },
+  "Vaginal bleeding after menopause": {
+    "tr": "Menopoz sonrası vajinal kanama",
+    "en": "Vaginal bleeding after menopause"
+  },
+  "Vaginal bleeding during pregnancy": {
+    "tr": "Gebelikte vajinal kanama",
+    "en": "Vaginal bleeding during pregnancy"
+  },
+  "Vaginal discharge": {
+    "tr": "Vajinal akıntı",
+    "en": "Vaginal discharge"
+  },
+  "Vaginal itching": {
+    "tr": "Vajinal kaşıntı",
+    "en": "Vaginal itching"
+  },
+  "Vaginal pain": {
+    "tr": "Vajinal ağrı",
+    "en": "Vaginal pain"
+  },
+  "Vertigo (Room spinning)": {
+    "tr": "Vertigo (Etraf dönüyor hissi)",
+    "en": "Vertigo (Room spinning)"
+  },
+  "Visual flashing lights": {
+    "tr": "Gözde çakan ışıklar",
+    "en": "Visual flashing lights"
+  },
+  "Visual problems": {
+    "tr": "Görme problemleri",
+    "en": "Visual problems"
+  },
+  "Vomiting": {
+    "tr": "Kusma",
+    "en": "Vomiting"
+  },
+  "Vomiting coffee ground material": {
+    "tr": "Kahve telvesi görünümünde kusma",
+    "en": "Vomiting coffee ground material"
+  },
+  "Weakness (Muscle localized)": {
+    "tr": "Belirli kas bölgesinde güçsüzlük",
+    "en": "Weakness (Muscle localized)"
+  },
+  "Weight loss, unexplained": {
+    "tr": "Açıklanamayan kilo kaybı",
+    "en": "Weight loss, unexplained"
+  },
+  "Wheezing (Noisy breathing)": {
+    "tr": "Hırıltılı solunum (Wheezing)",
+    "en": "Wheezing (Noisy breathing)"
+  },
+  "Wrist pain": {
+    "tr": "El bileği ağrısı",
+    "en": "Wrist pain"
+  },
+  "Wrist swelling": {
+    "tr": "El bileğinde şişlik",
+    "en": "Wrist swelling"
+  }
+}

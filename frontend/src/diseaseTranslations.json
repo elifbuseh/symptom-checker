@@ -1,0 +1,446 @@
+{
+  "ACE inhibitor induced coughblood pressure medication side effectDrug-induced coughDrug reaction: ACE inhibitor": {
+    "en": "ACE inhibitor induced cough / blood pressure medication side effect",
+    "tr": "ACE inhibitörü kaynaklı öksürük / tansiyon ilacı yan etkisi"
+  },
+  "Acute angle closure glaucomaincreased inner eye pressure": {
+    "en": "Acute angle closure glaucoma with increased inner eye pressure",
+    "tr": "Artmış göz içi basınçlı akut açı kapanması glokomu"
+  },
+  "Alcoholism": {
+    "en": "Alcoholism",
+    "tr": "Alkolizm"
+  },
+  "Allergic reaction": {
+    "en": "Allergic reaction",
+    "tr": "Alerjik reaksiyon"
+  },
+  "Autoimmune disease": {
+    "en": "Autoimmune disease",
+    "tr": "Otoimmün hastalık"
+  },
+  "Basilar artery migraineheadache": {
+    "en": "Basilar artery migraine headache",
+    "tr": "Baziler arter migreni / baş ağrısı"
+  },
+  "Behcets diseasesmall blood vessel inflammation disorder": {
+    "en": "Behcet's disease, small blood vessel inflammation disorder",
+    "tr": "Behçet hastalığı, küçük damar iltihabi hastalığı"
+  },
+  "Blepharitiseyelid swelling": {
+    "en": "Blepharitis with eyelid swelling",
+    "tr": "Blefarit (göz kapağı iltihabı) ve göz kapağı şişliği"
+  },
+  "Brain tumorcancer of the brain": {
+    "en": "Brain tumor / cancer of the brain",
+    "tr": "Beyin tümörü / beyin kanseri"
+  },
+  "Cavernous sinus thrombosishead vein blood clot": {
+    "en": "Cavernous sinus thrombosis, head vein blood clot",
+    "tr": "Kavernöz sinüs trombozu, baş toplardamarında pıhtı"
+  },
+  "Cerebral contusionbruise of brain": {
+    "en": "Cerebral contusion, bruise of brain",
+    "tr": "Serebral kontüzyon, beyinde ezilme (çürük)"
+  },
+  "Cerebral vascular accidentstroke": {
+    "en": "Cerebrovascular accident (stroke)",
+    "tr": "Serebrovasküler olay (inme)"
+  },
+  "Cholangitisinflammation of the bile ducts": {
+    "en": "Cholangitis, inflammation of the bile ducts",
+    "tr": "Kolanjit, safra kanallarının iltihabı"
+  },
+  "Cholecystitisinflammation of the gallbladder": {
+    "en": "Cholecystitis, inflammation of the gallbladder",
+    "tr": "Kolesistit, safra kesesi iltihabı"
+  },
+  "Choledocholithiasisstone in bile duct": {
+    "en": "Choledocholithiasis, stone in bile duct",
+    "tr": "Koledokolitiazis, safra kanalında taş"
+  },
+  "Cholelithiasisgallstones": {
+    "en": "Cholelithiasis, gallstones",
+    "tr": "Kolelitiazis, safra kesesi taşı"
+  },
+  "Cirrhosisliver failure and scarring": {
+    "en": "Cirrhosis, liver failure and scarring",
+    "tr": "Siroz, karaciğer yetmezliği ve nedbeleşme"
+  },
+  "Conjunctivitispink eye": {
+    "en": "Conjunctivitis, pink eye",
+    "tr": "Konjonktivit, pembe göz"
+  },
+  "Corneal abrasionscrape on eye": {
+    "en": "Corneal abrasion, scrape on eye",
+    "tr": "Korneal abrazyon, göz yüzeyinde sıyrık"
+  },
+  "Corneal foreign bodyobject in the eye": {
+    "en": "Corneal foreign body, object in the eye",
+    "tr": "Korneal yabancı cisim, göze kaçan cisim"
+  },
+  "Diabeteshigh blood sugar": {
+    "en": "Diabetes with high blood sugar",
+    "tr": "Diyabet, yüksek kan şekeri"
+  },
+  "Diabetes mellitus type 2elevated blood sugar": {
+    "en": "Diabetes mellitus type 2, elevated blood sugar",
+    "tr": "Tip 2 diyabetes mellitus, yüksek kan şekeri"
+  },
+  "Foreign body in the eye": {
+    "en": "Foreign body in the eye",
+    "tr": "Göze yabancı cisim kaçması"
+  },
+  "Glaucomaelevated eye pressure": {
+    "en": "Glaucoma with elevated eye pressure",
+    "tr": "Glokom, artmış göz içi basıncı"
+  },
+  "Head trauma": {
+    "en": "Head trauma",
+    "tr": "Kafa travması"
+  },
+  "Hepatitisliver inflammation": {
+    "en": "Hepatitis, liver inflammation",
+    "tr": "Hepatit, karaciğer iltihabı"
+  },
+  "Hordeolumstye of eye": {
+    "en": "Hordeolum, stye of eye",
+    "tr": "Hordeolum (arpacık), göz kapağı iltihabı"
+  },
+  "Hyphematraumatic blood in eye": {
+    "en": "Hyphema, traumatic blood in eye",
+    "tr": "Hifema, travmaya bağlı göziçi kanama"
+  },
+  "Keratitisinflammation of cornea": {
+    "en": "Keratitis, inflammation of cornea",
+    "tr": "Keratit, kornea iltihabı"
+  },
+  "Leukemiablood cell cancer": {
+    "en": "Leukemia, blood cell cancer",
+    "tr": "Lösemi, kan hücresi kanseri"
+  },
+  "Malariamosquito transmitted illness": {
+    "en": "Malaria, mosquito transmitted illness",
+    "tr": "Sıtma, sivrisinekle bulaşan hastalık"
+  },
+  "Maxillary sinus carcinomasinus cancer": {
+    "en": "Maxillary sinus carcinoma, sinus cancer",
+    "tr": "Maksiller sinüs karsinomu, sinüs kanseri"
+  },
+  "Methyl alcohol intoxicationmethanol": {
+    "en": "Methyl alcohol intoxication (methanol poisoning)",
+    "tr": "Metil alkol (metanol) zehirlenmesi"
+  },
+  "Migrainetype of headache": {
+    "en": "Migraine type headache",
+    "tr": "Migren tipi baş ağrısı"
+  },
+  "Multiple sclerosisMS": {
+    "en": "Multiple sclerosis (MS)",
+    "tr": "Multipl skleroz (MS)"
+  },
+  "Nasopharyngeal carcinomatumor": {
+    "en": "Nasopharyngeal carcinoma tumor",
+    "tr": "Nazofarenks karsinomu (tümör)"
+  },
+  "Ophthalmoplegiaeye muscle weakness": {
+    "en": "Ophthalmoplegia, eye muscle weakness",
+    "tr": "Oftalmopleji, göz kaslarında felç/zayıflık"
+  },
+  "Optic neuritisoptic nerve inflammation": {
+    "en": "Optic neuritis, optic nerve inflammation",
+    "tr": "Optik nörit, görme siniri iltihabı"
+  },
+  "Orbital cellulitissoft tissue eye infection": {
+    "en": "Orbital cellulitis, soft tissue eye infection",
+    "tr": "Orbital selülit, göz çevresi yumuşak doku enfeksiyonu"
+  },
+  "Orbital fracturebroken bone near the eye": {
+    "en": "Orbital fracture, broken bone near the eye",
+    "tr": "Orbital fraktür, göz çevresi kemik kırığı"
+  },
+  "Orbital massgrowth near the eye": {
+    "en": "Orbital mass, growth near the eye",
+    "tr": "Orbital kitle, göz çevresinde büyüme"
+  },
+  "Pancreatic cancertumor": {
+    "en": "Pancreatic cancer tumor",
+    "tr": "Pankreas kanseri (tümör)"
+  },
+  "Periorbital cellulitisinfection around eye": {
+    "en": "Periorbital cellulitis, infection around eye",
+    "tr": "Periorbital selülit, göz etrafında enfeksiyon"
+  },
+  "Pituitary tumor": {
+    "en": "Pituitary tumor",
+    "tr": "Hipofiz tümörü"
+  },
+  "Primary sclerosing cholangitisbile duct disease": {
+    "en": "Primary sclerosing cholangitis, bile duct disease",
+    "tr": "Primer sklerozan kolanjit, safra kanalı hastalığı"
+  },
+  "Quaternary syphilislate stage syphilis": {
+    "en": "Quaternary syphilis, late stage syphilis",
+    "tr": "Dördüncü evre frengi, geç dönem sifiliz"
+  },
+  "Increased pressure in the skullraised intracranial pressure": {
+    "en": "Increased pressure in the skull, raised intracranial pressure",
+    "tr": "Kafatası içinde artmış basınç (intrakraniyal basınç yüksekliği)"
+  },
+  "Sclerosing cholangitisprogressive bile duct disease ": {
+    "en": "Sclerosing cholangitis, progressive bile duct disease",
+    "tr": "Sklerozan kolanjit, ilerleyici safra kanalı hastalığı"
+  },
+  "Sinusitissinus infection": {
+    "en": "Sinusitis, sinus infection",
+    "tr": "Sinüzit, sinüs enfeksiyonu"
+  },
+  "Steven Johnson syndromerare, serious skin disorder": {
+    "en": "Stevens-Johnson syndrome, rare serious skin disorder",
+    "tr": "Stevens-Johnson sendromu, nadir ve ciddi bir cilt hastalığı"
+  },
+  "Syphilistreponema pallidum": {
+    "en": "Syphilis (Treponema pallidum infection)",
+    "tr": "Sifiliz (frengi), Treponema pallidum enfeksiyonu"
+  },
+  "Temporal arteritisinflamed scalp artery": {
+    "en": "Temporal arteritis, inflamed scalp artery",
+    "tr": "Temporal arterit, saçlı deri atardamarı iltihabı"
+  },
+  "Third cranial nerve disorderdisorder of eye movement": {
+    "en": "Third cranial nerve disorder, disorder of eye movement",
+    "tr": "Üçüncü kafa çifti (okülomotor sinir) bozukluğu, göz hareket bozukluğu"
+  },
+  "Toxoplasma infectionToxoplasmosisparasite infection": {
+    "en": "Toxoplasma infection (Toxoplasmosis), parasite infection",
+    "tr": "Toksoplazma enfeksiyonu (Toksoplazmoz), parazit enfeksiyonu"
+  },
+  "Transient ischemic attackTIA, reversible stroke": {
+    "en": "Transient ischemic attack (TIA), reversible stroke",
+    "tr": "Geçici iskemik atak (GİA), geri dönebilen inme"
+  },
+  "Trauma": {
+    "en": "Trauma",
+    "tr": "Travma"
+  },
+  "Uveitisiritis, eye inflammation": {
+    "en": "Uveitis / iritis, eye inflammation",
+    "tr": "Üveit / iritis, göz içi iltihabı"
+  },
+  "Vertebral- basilar artery insufficiencyinadequate blood flow to the back of the brainvertebro-basilar insufficiency": {
+    "en": "Vertebral-basilar artery insufficiency, inadequate blood flow to back of brain",
+    "tr": "Vertebral-baziler arter yetmezliği, beynin arka kısmına yetersiz kan akımı"
+  },
+  "WarfarinCoumadin, Jantoven overdose": {
+    "en": "Warfarin (Coumadin, Jantoven) overdose",
+    "tr": "Warfarin (Coumadin, Jantoven) doz aşımı"
+  },
+  "Seizureabnormal brain electrical activity": {
+    "en": "Seizure, abnormal brain electrical activity",
+    "tr": "Nöbet, beyinde anormal elektriksel aktivite"
+  },
+  "Lymphomalymph node cancer": {
+    "en": "Lymphoma, lymph node cancer",
+    "tr": "Lenfoma, lenf bezi kanseri"
+  },
+  "Carotid artery stenosisneck artery narrowing": {
+    "en": "Carotid artery stenosis, neck artery narrowing",
+    "tr": "Karotis arter darlığı, boyun atardamarında daralma"
+  },
+  "Hydrocephalusbrain fluid build-up": {
+    "en": "Hydrocephalus, brain fluid build-up",
+    "tr": "Hidrosefali, beyinde sıvı birikmesi"
+  },
+  "Cerebral aneurysmbrain artery dilation": {
+    "en": "Cerebral aneurysm, brain artery dilation",
+    "tr": "Serebral anevrizma, beyin atardamarında baloncuk"
+  },
+  "Pseudotumor cerebriincreased pressure in the skull": {
+    "en": "Pseudotumor cerebri, increased pressure in the skull",
+    "tr": "Psödotümör serebri, kafatası içinde artmış basınç"
+  },
+  "Allergic conjunctivitisallergic reaction in the eye": {
+    "en": "Allergic conjunctivitis, allergic reaction in the eye",
+    "tr": "Alerjik konjonktivit, gözde alerjik reaksiyon"
+  },
+  "Hemochromatosisexcess iron disorder": {
+    "en": "Hemochromatosis, excess iron disorder",
+    "tr": "Hemokromatozis, vücutta aşırı demir birikimi"
+  },
+  "Wilsons diseasecopper accumulation in tissues": {
+    "en": "Wilson's disease, copper accumulation in tissues",
+    "tr": "Wilson hastalığı, dokularda bakır birikimi"
+  },
+  "RubellaGerman measles": {
+    "en": "Rubella (German measles)",
+    "tr": "Kızamıkçık (Rubella)"
+  },
+  "Subconjunctival hemorrhageblood covering white part of the eye": {
+    "en": "Subconjunctival hemorrhage, blood covering white part of the eye",
+    "tr": "Subkonjonktival kanama, gözün beyaz kısmında kan birikmesi"
+  },
+  "Q feverflu-like bacterial illness": {
+    "en": "Q fever, flu-like bacterial illness",
+    "tr": "Q ateşi, grip benzeri bakteriyel hastalık"
+  },
+  "Graves' diseaseoverproduction of thyroid hormone": {
+    "en": "Graves' disease, overproduction of thyroid hormone",
+    "tr": "Graves hastalığı, tiroid hormonunun aşırı üretimi"
+  },
+  "Angioedemaswelling of skin, lips, eyes": {
+    "en": "Angioedema, swelling of skin, lips, eyes",
+    "tr": "Anjiyoödem, cilt, dudak ve gözlerde şişlik"
+  },
+  "Detached retinaretinal detachment": {
+    "en": "Detached retina, retinal detachment",
+    "tr": "Ayrılmış retina, retina dekolmanı"
+  },
+  "Posterior vitreous detachmentcommon eye abnormality": {
+    "en": "Posterior vitreous detachment, common eye abnormality",
+    "tr": "Arka vitreus dekolmanı, sık görülen göz anormalliği"
+  },
+  "Cataractsclouding of the eye lens": {
+    "en": "Cataracts, clouding of the eye lens",
+    "tr": "Katarakt, göz merceğinin bulanıklaşması"
+  },
+  "Hemolytic anemiared blood cell destruction disorder": {
+    "en": "Hemolytic anemia, red blood cell destruction disorder",
+    "tr": "Hemolitik anemi, kırmızı kan hücresi yıkımına bağlı kansızlık"
+  },
+  "Pterygiumgrowth on the eye": {
+    "en": "Pterygium, growth on the eye",
+    "tr": "Pterjiyum, göz yüzeyinde et büyümesi"
+  },
+  "Amaurosis fugaxmomentary vision loss in one eye": {
+    "en": "Amaurosis fugax, momentary vision loss in one eye",
+    "tr": "Amaurosis fugax, tek gözde geçici görme kaybı"
+  },
+  "Gilbert's diseaseliver abnormality": {
+    "en": "Gilbert's disease, liver abnormality",
+    "tr": "Gilbert hastalığı, karaciğer fonksiyon bozukluğu"
+  },
+  "Newborn jaundicenewborn skin discoloration": {
+    "en": "Newborn jaundice, newborn skin discoloration",
+    "tr": "Yenidoğan sarılığı, bebekte ciltte sararma"
+  },
+  "Macular degenerationchronic eye disease": {
+    "en": "Macular degeneration, chronic eye disease",
+    "tr": "Makula dejenerasyonu, kronik göz hastalığı"
+  },
+  "Diabetic retinopathydiabetic eye disease": {
+    "en": "Diabetic retinopathy, diabetic eye disease",
+    "tr": "Diyabetik retinopati, şeker hastalığına bağlı göz hastalığı"
+  },
+  "Miller Fisher Syndromerare nerve disease": {
+    "en": "Miller Fisher Syndrome, rare nerve disease",
+    "tr": "Miller Fisher sendromu, nadir görülen sinir hastalığı"
+  },
+  "Complex migrainemigraine with neurologic changes": {
+    "en": "Complex migraine, migraine with neurologic changes",
+    "tr": "Kompleks migren, nörolojik belirtili migren"
+  },
+  "Scleritisinflammation of the eye": {
+    "en": "Scleritis, inflammation of the eye",
+    "tr": "Sklerit, gözün dış tabakasında iltihap"
+  },
+  "Focal seizurepartial seizure": {
+    "en": "Focal seizure, partial seizure",
+    "tr": "Fokal nöbet, kısmi nöbet"
+  },
+  "Gallbladder cancer": {
+    "en": "Gallbladder cancer",
+    "tr": "Safra kesesi kanseri"
+  },
+  "Farsightednesshyperopia/hypermetropia": {
+    "en": "Farsightedness, hyperopia/hypermetropia",
+    "tr": "Uzak görme kusuru (hipermetropi)"
+  },
+  "Gallbladder and bile duct cancerGallbladder cancerbile duct cancer": {
+    "en": "Gallbladder and bile duct cancer",
+    "tr": "Safra kesesi ve safra kanalı kanseri"
+  },
+  "Graves eye diseaseGraves ophthalmopathy": {
+    "en": "Graves' eye disease, Graves' ophthalmopathy",
+    "tr": "Graves göz hastalığı, Graves oftalmopatisi"
+  },
+  "Hemorrhagic strokeCVA, cerebrovascular accident": {
+    "en": "Hemorrhagic stroke, cerebrovascular accident",
+    "tr": "Hemorajik inme, serebrovasküler olay"
+  },
+  "Hepatitis A": {
+    "en": "Hepatitis A",
+    "tr": "Hepatit A"
+  },
+  "Lacunar stroke": {
+    "en": "Lacunar stroke",
+    "tr": "Laküner inme"
+  },
+  "Presbyopiaaging vision": {
+    "en": "Presbyopia, aging vision",
+    "tr": "Presbiyopi, yaşa bağlı yakın görme bozukluğu"
+  },
+  "Retinitis pigmentosa": {
+    "en": "Retinitis pigmentosa",
+    "tr": "Retinitis pigmentosa (kalıtsal retina hastalığı)"
+  },
+  "Retinoblastomapediatric eye cancer": {
+    "en": "Retinoblastoma, pediatric eye cancer",
+    "tr": "Retinoblastom, çocukluk çağı göz tümörü"
+  },
+  "Retrobulbar Neuritis": {
+    "en": "Retrobulbar neuritis",
+    "tr": "Retrobulber nörit"
+  },
+  "Takayasu's arteritisGiant cell arteritis of the young": {
+    "en": "Takayasu's arteritis, giant cell arteritis of the young",
+    "tr": "Takayasu arteriti, gençlerde dev hücreli damar iltihabı"
+  },
+  "Tay-Sachs disease": {
+    "en": "Tay-Sachs disease",
+    "tr": "Tay-Sachs hastalığı"
+  },
+  "Tear duct infectionDacryocystitis": {
+    "en": "Tear duct infection (Dacryocystitis)",
+    "tr": "Gözyaşı kanalı enfeksiyonu (Dakriyosistit)"
+  },
+  "Conversion disorder": {
+    "en": "Conversion disorder",
+    "tr": "Dönüşüm bozukluğu (konversiyon bozukluğu)"
+  },
+  "Strabismuscrossed eyes": {
+    "en": "Strabismus, crossed eyes",
+    "tr": "Şaşılık (strabismus)"
+  },
+  "Turner syndromegonadal dysgenesis": {
+    "en": "Turner syndrome, gonadal dysgenesis",
+    "tr": "Turner sendromu, gonadal disgenezi"
+  },
+  "Retinopathy": {
+    "en": "Retinopathy",
+    "tr": "Retinopati"
+  },
+  "Corneal ulcer": {
+    "en": "Corneal ulcer",
+    "tr": "Korneal ülser"
+  },
+  "Blocked tear ductdacryostenosis": {
+    "en": "Blocked tear duct (dacryostenosis)",
+    "tr": "Tıkalı gözyaşı kanalı (dakriyostenoz)"
+  },
+  "Aphakia": {
+    "en": "Aphakia",
+    "tr": "Afaki (merceksiz göz)"
+  },
+  "Night blindnessnyctalopia": {
+    "en": "Night blindness (nyctalopia)",
+    "tr": "Gece körlüğü (niktalopi)"
+  },
+  "Cerebellar Hemorrhagebleeding In Back Of Brain": {
+    "en": "Cerebellar hemorrhage / bleeding in back of brain",
+    "tr": "Beyincik kanaması (beynin arka kısmında kanama)"
+  },
+  "Sclerosing cholangitisprogressive bile duct disease": {
+    "en": "Sclerosing cholangitisprogressive bile duct disease",
+    "tr": "Sclerosing cholangitisprogressive bile duct disease"
+  }
+}

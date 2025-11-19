@@ -1,0 +1,28 @@
+# Python / Backend
+backend/venv/
+backend/model.pkl
+backend/symptoms.json  # <-- DÜZELTME: Başına 'backend/' eklendi
+__pycache__/
+*.pyc
+
+# Frontend / dependencies
+frontend/node_modules/ # <-- DÜZELTME: 'frontend/' eklendi ve sondaki /
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
