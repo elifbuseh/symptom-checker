@@ -1,235 +1,245 @@
-🩺 AI-Powered Symptom Checker
-(English Version)
+# 🩺 AI-Powered Symptom Checker (English Version)
 
-Machine Learning Based Symptom Analysis Web Application
-GitHub Repository: https://github.com/elifbuseh/symptom-checker
- (branch: main)
+> **⚠️ Disclaimer:** This project is for educational and informational purposes only. It does not replace professional medical diagnosis. Please consult a healthcare professional for health concerns.
 
-⚠️ Disclaimer: This project is for educational and informational purposes only. It does not replace professional medical diagnosis. Please consult a healthcare professional for health concerns.
+**Machine Learning-Based Symptom Analysis Web Application**  
+**GitHub Repository:** https://github.com/elifbuseh/symptom-checker  
+**Branch:** main
 
+---
 
+## 📖 About the Project
 
-📖 About the Project
+Symptom Checker is a machine-learning-powered web application that allows users to select symptoms and receive predictions about possible diseases. The modern UI enables easy filtering, searching, and selection of symptoms.
 
-Symptom Checker is a machine learning powered web application that allows users to select symptoms and receive predictions about potential diseases.
+A Python Flask backend processes input and uses a trained ML model to generate predictions.
 
-With its modern and interactive UI, symptoms can be searched, filtered, selected, and viewed easily.
-A Python Flask backend processes the input and interacts with a trained ML model to generate predictions.
+---
 
-✨ Features
+## ✨ Features
 
-🔍 Smart Symptom Search: Filter symptoms based on the first letters.
+- 🔍 **Smart Symptom Search:** Filter symptoms by their first letters  
+- 🛒 **Dynamic Symptom Panel:** View and remove selected symptoms easily  
+- 🎨 **Modern UI:** Built with React, animated, responsive  
+- 🤖 **ML-Powered Prediction:** Uses a trained Scikit-learn model  
+- 📱 **Overlay Result Screen:** Displays predictions without page reload  
 
-🛒 Dynamic Selected Symptoms Panel: View and remove selected symptoms instantly.
+---
 
-🎨 Modern UI: Clean, responsive, and animated interface built with React.
+## 🛠️ Technologies Used
 
-🤖 Machine Learning: Disease prediction via Scikit-learn model.
+### Frontend
+- React.js  
+- CSS3  
 
-📱 Overlay Result Screen: Displays prediction results without refreshing the page.
+### Backend
+- Python & Flask  
+- Pandas & NumPy  
+- Scikit-learn  
+- Git LFS (large model files)  
 
-🛠️ Technologies Used
-Frontend
+---
 
-React.js
+## 🚀 Installation & Setup
 
-CSS3 (animations, transitions, responsive layout)
+### ⚙️ Prerequisites
+- Node.js  
+- Python  
+- Git LFS  
 
-Backend
+---
 
-Python & Flask
+### 1. Clone the Repository
 
-Pandas & NumPy
-
-Scikit-learn
-
-Git LFS (for handling large model files)
-
-🚀 Installation & Setup
-
-⚙️ Prerequisites:
-
-Node.js
-
-Python
-
-Git LFS
-
-1. Clone the Project
+```bash
 git clone https://github.com/elifbuseh/symptom-checker.git
 cd symptom-checker
+```
 
-2. Backend Setup
+---
+
+### 2. Backend Setup
+
+```bash
 cd backend
+```
 
-# Create virtual environment (optional but recommended)
-python -m venv venv
+Create virtual environment:
 
-# Activate on Windows
-.\venv\Scripts\activate
-
-# Activate on macOS/Linux
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Start server
-python app.py
-
-
-Backend runs at:
-👉 http://localhost:5000
-
-3. Frontend Setup
-
-Open a new terminal:
-
-cd frontend
-npm install
-npm start
-
-
-Frontend runs at:
-👉 http://localhost:3000
-
-📂 Project Structure
-symptom-checker/
-├── backend/
-│   ├── app.py
-│   ├── model.pkl
-│   ├── dataset/
-│   └── requirements.txt
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── App.js
-│   │   ├── App.css
-│   │   └── index.js
-│   └── package.json
-└── README.md
-
-🤝 Contributing
-
-Fork the repository
-
-Create a feature branch
-
-git checkout -b new-feature
-
-
-Commit changes
-
-git commit -m "Added new feature"
-
-
-Push your branch
-
-git push origin new-feature
-
-
-Create a Pull Request 🎉
-
-⭐ Support
-
-If you like this project, feel free to star the repo!
-
-🩺 AI Destekli Semptom Kontrol Uygulaması
-(Türkçe Sürüm)
-
-Makine Öğrenmesi Tabanlı Semptom Analizi Web Uygulaması
-GitHub Deposu: https://github.com/elifbuseh/symptom-checker
- (branch: main)
-
-⚠️ Uyarı: Bu proje sadece eğitim ve bilgilendirme amaçlıdır. Tıbbi teşhis yerine geçmez. Sağlık sorunlarınız için bir uzmana başvurunuz.
-
-
-
-📖 Proje Hakkında
-
-Symptom Checker, kullanıcıların yaşadıkları semptomları seçerek olası hastalık tahminleri almasını sağlayan makine öğrenmesi tabanlı bir web uygulamasıdır.
-
-Modern arayüzü sayesinde semptomlar hızlıca aranabilir, filtrelenebilir, seçilebilir ve yönetilebilir.
-Arka plandaki Python Flask API, eğitilmiş makine öğrenmesi modeli ile tahminleri üretir.
-
-✨ Özellikler
-
-🔍 Akıllı Semptom Arama: Semptomları baş harfine göre filtreleme.
-
-🛒 Dinamik Seçim Paneli: Seçilen semptomları tek tıkla görüntüleme ve kaldırma.
-
-🎨 Modern UI: React ile geliştirilmiş, estetik ve mobil uyumlu tasarım.
-
-🤖 Makine Öğrenmesi Entegrasyonu: Scikit-learn modeli ile tahmin işlemi.
-
-📱 Overlay Sonuç Paneli: Sayfa yenilemeden modern sonuç gösterimi.
-
-🛠️ Kullanılan Teknolojiler
-Frontend
-
-React.js
-
-CSS3 (animasyon, geçişler, responsive yapı)
-
-Backend
-
-Python & Flask
-
-Pandas & NumPy
-
-Scikit-learn
-
-Git LFS (büyük model dosyası için)
-
-🚀 Kurulum ve Çalıştırma
-
-⚙️ Gereksinimler:
-
-Node.js
-
-Python
-
-Git LFS
-
-1. Projeyi Klonlayın
-git clone https://github.com/elifbuseh/symptom-checker.git
-cd symptom-checker
-
-2. Backend Kurulumu
-cd backend
-
-# Sanal ortam (opsiyonel fakat önerilir)
-python -m venv venv
-
+```bash
 # Windows
+python -m venv venv
 .\venv\Scripts\activate
 
-# Mac/Linux
+# macOS/Linux
+python3 -m venv venv
 source venv/bin/activate
+```
 
-# Bağımlılıkların yüklenmesi
+Install dependencies:
+
+```bash
 pip install -r requirements.txt
-
-# Sunucuyu başlatma
 python app.py
+```
 
+👉 Backend runs at: **http://localhost:5000**
 
-Backend adresi:
-👉 http://localhost:5000
+---
 
-3. Frontend Kurulumu
+### 3. Frontend Setup
 
-Yeni bir terminal açın:
-
+```bash
 cd frontend
 npm install
 npm start
+```
 
+👉 Frontend runs at: **http://localhost:3000**
 
-Frontend adresi:
-👉 http://localhost:3000
+---
 
-📂 Proje Yapısı
+## 📂 Project Structure
+
+```text
+symptom-checker/
+├── backend/
+│   ├── app.py              # Flask API
+│   ├── model.pkl           # ML Model
+│   ├── dataset/            # Data Files
+│   └── requirements.txt
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── App.js
+│   │   ├── App.css
+│   │   └── index.js
+│   └── package.json
+└── README.md
+```
+
+---
+
+## 🤝 Contributors
+
+Thanks to the amazing contributors of this project:
+
+- **Elif Buse Holozlu**  
+- **Sude Güngör**  
+- **Giray Bosna** 
+
+---
+
+## ⭐ Support
+
+If you like this project, please ⭐ the repository!
+
+---
+
+# 🩺 AI Destekli Semptom Kontrol Uygulaması (Türkçe Sürüm)
+
+> **⚠️ Uyarı:** Bu proje yalnızca eğitim amaçlıdır. Tıbbi teşhis yerine geçmez. Sağlık sorunlarınız için doktora danışınız.
+
+**Makine Öğrenmesi Tabanlı Semptom Analizi Web Uygulaması**  
+**GitHub Deposu:** https://github.com/elifbuseh/symptom-checker  
+**Branch:** main
+
+---
+
+## 📖 Proje Hakkında
+
+Symptom Checker, kullanıcıların seçtiği semptomlara göre olası hastalık tahminleri sunan makine öğrenmesi destekli bir web uygulamasıdır. Modern ve kullanıcı dostu arayüzü sayesinde semptomlar hızlıca aranabilir, filtrelenebilir ve seçilebilir.
+
+Flask tabanlı backend, kullanıcıdan gelen verileri işleyerek eğitilmiş bir ML modeli ile tahmin üretir.
+
+---
+
+## ✨ Özellikler
+
+- 🔍 **Akıllı Semptom Arama**  
+- 🛒 **Dinamik Seçili Semptom Paneli**  
+- 🎨 **Modern & Responsive Arayüz**  
+- 🤖 **Makine Öğrenmesi ile Tahmin**  
+- 📱 **Overlay Sonuç Gösterimi**  
+
+---
+
+## 🛠️ Kullanılan Teknolojiler
+
+### Frontend
+- React.js  
+- CSS3  
+
+### Backend
+- Python & Flask  
+- Pandas & NumPy  
+- Scikit-learn  
+- Git LFS  
+
+---
+
+## 🚀 Kurulum ve Çalıştırma
+
+### ⚙️ Gereksinimler
+- Node.js  
+- Python  
+- Git LFS  
+
+---
+
+### 1. Projeyi Klonlayın
+
+```bash
+git clone https://github.com/elifbuseh/symptom-checker.git
+cd symptom-checker
+```
+
+---
+
+### 2. Backend Kurulumu
+
+```bash
+cd backend
+```
+
+Sanal ortam:
+
+```bash
+# Windows
+python -m venv venv
+.\venv\Scripts\activate
+
+# macOS/Linux
+python3 -m venv venv
+source venv/bin/activate
+```
+
+Kurulum:
+
+```bash
+pip install -r requirements.txt
+python app.py
+```
+
+👉 Backend adresi: **http://localhost:5000**
+
+---
+
+### 3. Frontend Kurulumu
+
+```bash
+cd frontend
+npm install
+npm start
+```
+
+👉 Frontend adresi: **http://localhost:3000**
+
+---
+
+## 📂 Proje Yapısı
+
+```text
 symptom-checker/
 ├── backend/
 │   ├── app.py
@@ -244,28 +254,21 @@ symptom-checker/
 │   │   └── index.js
 │   └── package.json
 └── README.md
+```
 
-🤝 Katkıda Bulunma
+---
 
-Repoyu forklayın
+## 🤝 Katkıda Bulunanlar
 
-Yeni bir branch oluşturun
+Projeye katkı sağlayan ekip:
 
-git checkout -b yeni-ozellik
+- **Elif Buse Holozlu**  
+- **Sude Güngör**  
+- **Giray Bosna**  
 
+---
 
-Değişiklikleri commit edin
+## ⭐ Destek
 
-git commit -m "Yeni özellik eklendi"
+Projeyi beğendiysen yıldız bırakabilirsin ⭐
 
-
-Branch'i pushlayın
-
-git push origin yeni-ozellik
-
-
-Pull Request açın 🎉
-
-⭐ Destek
-
-Projeyi beğendiysen yıldız verebilirsin ⭐
